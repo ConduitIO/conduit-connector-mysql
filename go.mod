@@ -5,7 +5,7 @@ go 1.26.9
 require (
 	github.com/Masterminds/squirrel v1.5.4
 	github.com/conduitio/conduit-commons v0.13.0
-	github.com/conduitio/conduit-connector-sdk v0.17.1
+	github.com/conduitio/conduit-connector-sdk v0.17.2
 	github.com/go-mysql-org/go-mysql v1.14.0
 	github.com/go-sql-driver/mysql v1.10.1
 	github.com/google/go-cmp v0.7.0
