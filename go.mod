@@ -9,7 +9,7 @@ require (
 	github.com/go-mysql-org/go-mysql v1.14.0
 	github.com/go-sql-driver/mysql v1.10.1
 	github.com/google/go-cmp v0.7.0
-	github.com/iskorotkov/avro/v2 v2.34.0
+	github.com/iskorotkov/avro/v2 v2.35.0
 	github.com/jmoiron/sqlx v1.4.0
 	github.com/matryer/is v1.4.1
 	github.com/rs/zerolog v1.35.1
@@ -27,11 +27,9 @@ require (
 	github.com/conduitio/yaml/v3 v3.3.0 // indirect
 	github.com/jinzhu/inflection v1.0.0 // indirect
 	github.com/jinzhu/now v1.1.5 // indirect
-	github.com/json-iterator/go v1.1.12 // indirect
-	github.com/klauspost/compress v1.18.4 // indirect
+	github.com/klauspost/compress v1.19.2 // indirect
 	github.com/lann/builder v0.0.0-20180802200727-47ae307949d0 // indirect
 	github.com/lann/ps v0.0.0-20150810152359-62de8c46ede0 // indirect
-	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
 	github.com/modern-go/reflect2 v1.0.2 // indirect
 	github.com/pingcap/errors v0.11.5-0.20250523034308-74f78ae071ee // indirect
 	github.com/pingcap/failpoint v0.0.0-20251231045439-91d91e123837 // indirect
