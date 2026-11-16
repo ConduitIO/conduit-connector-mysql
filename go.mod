@@ -1,10 +1,10 @@
 module github.com/conduitio-labs/conduit-connector-mysql
 
-go 1.26.9
+go 1.26.11
 
 require (
 	github.com/Masterminds/squirrel v1.5.4
-	github.com/conduitio/conduit-commons v0.13.0
+	github.com/conduitio/conduit-commons v0.13.1
 	github.com/conduitio/conduit-connector-sdk v0.17.2
 	github.com/go-mysql-org/go-mysql v1.14.0
 	github.com/go-sql-driver/mysql v1.10.1
@@ -27,7 +27,7 @@ require (
 	github.com/conduitio/yaml/v3 v3.3.0 // indirect
 	github.com/jinzhu/inflection v1.0.0 // indirect
 	github.com/jinzhu/now v1.1.5 // indirect
-	github.com/klauspost/compress v1.19.2 // indirect
+	github.com/klauspost/compress v1.20.3 // indirect
 	github.com/lann/builder v0.0.0-20180802200727-47ae307949d0 // indirect
 	github.com/lann/ps v0.0.0-20150810152359-62de8c46ede0 // indirect
 	github.com/modern-go/reflect2 v1.0.2 // indirect
