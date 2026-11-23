@@ -7,7 +7,7 @@ require (
 	github.com/conduitio/conduit-commons v0.13.1
 	github.com/conduitio/conduit-connector-sdk v0.17.2
 	github.com/go-mysql-org/go-mysql v1.14.0
-	github.com/go-sql-driver/mysql v1.10.1
+	github.com/go-sql-driver/mysql v1.10.2
 	github.com/google/go-cmp v0.7.0
 	github.com/iskorotkov/avro/v2 v2.35.0
 	github.com/jmoiron/sqlx v1.4.0
